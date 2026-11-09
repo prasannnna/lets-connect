@@ -67,16 +67,6 @@ The application follows a three-tier architecture:
 - AI-assisted and rule-based content moderation.
 
 
-## ⚙️ Installation and Setup
-
-### Prerequisites
-
-- Node.js
-- npm
-- SQLite/libSQL database
-- Google Gemini API key
-
-
 ##  Future Enhancements
 
 - Migration to PostgreSQL for improved scalability.
